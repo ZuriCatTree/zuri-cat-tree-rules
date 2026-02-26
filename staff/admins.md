@@ -4,6 +4,8 @@ Here is a comprehensive list of our staff.
 
 These are all **Telegram** usernames
 
+You can learn more about [Roles](../README.md#what-are-roles) or [Teams](../README.md#what-are-teams) in the [FAQ](../README.md#faq).
+
 | Name | Username | Role | Division | Can Verify ID? |
 | :-: | :-: | :-: | :-: | :-: |
 | Zuri | [@ZuriTheChee](https://t.me/ZuriTheChee) | Owner | Polymorph | YES |
@@ -20,4 +22,3 @@ These are all **Telegram** usernames
 | Klauth | [@Klauthra](https://t.me/Klauthra) | Mod | Member Satisfaction, Moderation | YES |
 | Reggie | [@ReggieTheCaracal](https://t.me/ReggieTheCaracal) | Mod | Member Satisfaction | NO |
 
-Curious about roles? [Learn More](../README.md#what-are-roles)
