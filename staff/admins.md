@@ -20,5 +20,4 @@ You can learn more about [Roles](../README.md#what-are-roles) or [Teams](../READ
 | Edu | [@ed_wolf](https://t.me/ed_wolf) | Mod | Moderation | YES |
 | Starsie | [@Starsie](https://t.me/Starsie) | Mod | Member Satisfaction | NO |
 | Klauth | [@Klauthra](https://t.me/Klauthra) | Mod | Member Satisfaction, Moderation | YES |
-| Reggie | [@ReggieTheCaracal](https://t.me/ReggieTheCaracal) | Mod | Member Satisfaction | NO |
-
+| Reggie | [@ReggieTheCaracal](https://t.me/ReggieTheCaracal) | Mod | Discord, Member Satisfaction | YES |
