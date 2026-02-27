@@ -7,14 +7,14 @@ Please head to [The Joining Process](./joining-flow/README.md). We only accept p
 ## What Chats / Channels belong to the network?
 
 | Name | Type | Link |
-| :- | :-: | -: |
+| :- | :- | -: |
 | Zuri Cat Tree | Chat | [Join](https://tg.zuri-cat-tree.net) |
 | Zuri Posting | Channel | [Join](https://channel.zuricheetah.com) |
 | Cat Tree | Discord Channel | [Join](https://discord.zuri-cat-tree.net) |
 
 ## What are Roles?
 
-Roles are a necessary and easy way to manage responsibilities when it comes to the network. The network itself divides all responsibilities into two different different scopes: roles and teams. To learn more about teams, head down to [teams](#what-are-teams).
+Roles are a necessary and easy way to manage responsibilities when it comes to the network. The network itself divides all responsibilities into two different scopes: roles and teams. To learn more about teams, head down to [teams](#what-are-teams).
 
 | Role | Description |
 | :- | -: |
@@ -28,7 +28,7 @@ Roles are a necessary and easy way to manage responsibilities when it comes to t
 Teams are a way to define a scope for different members of the staff. Teams are directed or coordinated by admins and the owner (when needed). Mods specialize in their team and admins act as coordinators between their team and others.
 
 | Team | Responsibilities | Justification |
-| :-: | :- | -: |
+| :- | :- | -: |
 | **Network Logistics** | Internal Roles, Processes, Approvals, Effectiveness | As the network grows, internal management is more than necessary. This team solves the problem that appears when teams become numerous: a way to control the internal processes, recognize problems and solve them, etc. |
 | **Moderation** | Chat Moderation | The moderation team is probably the best understood amongst all the teams. This team solves the main problem when it comes to chats: bring order and well-being to the chat in ways that are fair and justified. They act based on the rules that a chat presents and maintain a healthy environment for everybody to exist in. |
 | **Member Satisfaction** | Long-Term Events, Chat Feeling | Participating in chats is not only about talking, but rather in participating in different activities. The Member Satisfaction Team seeks to create long-term events that make the chat unique, compared to others. They may organize group art pieces, games or large-scale events to keep the community alive. |

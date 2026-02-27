@@ -12,6 +12,8 @@ To join, we need you to understand that we are a series of chats that do not acc
 
 > Thank you for asking!
 
+First, we require you to go check out the [Rules](../rules/README.md). We have instructed admins to NOT REPLY to you if you do not acknowledge them while trying to join first thing.
+
 We require some kind of documentation to enter. We do **not** save your documentation in any way, nor would we ever want to. The only way documentation remains visible to us, is if you decide not to delete it in a chat.
 
 ### How to be Allowed In

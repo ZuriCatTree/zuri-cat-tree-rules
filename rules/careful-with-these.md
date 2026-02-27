@@ -1,4 +1,4 @@
-# What is This?
+# What is this?
 
 A list of spoilered or banned kinks and artists and possibly a reason as to why they were banned.
 Spoilered kinks MUST have a CONTENT WARNING and be spoilered when sent.
@@ -6,7 +6,7 @@ Spoilered kinks MUST have a CONTENT WARNING and be spoilered when sent.
 ## Kinks
 
 | Kink | Status | Why? |
-| :- | :-: | -: |
+| :- | :- | -: |
 | Cub | BANNED | |
 | Gore | BANNED | |
 | Scat | BANNED | |
