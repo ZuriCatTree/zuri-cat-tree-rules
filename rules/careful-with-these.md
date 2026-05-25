@@ -26,3 +26,4 @@ You can assume any artist that draws cub or zoo is banned.
 | Zaush | Draws young (underage) characters |
 | JailBird | Cub |
 | RedRusker | |
+| Zackary911 | Drawing young / cub characters |
