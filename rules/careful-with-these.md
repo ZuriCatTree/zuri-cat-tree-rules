@@ -23,8 +23,11 @@ You can assume any artist that draws cub or zoo is banned.
 
 | Artist | Why? |
 | :- | -: |
+| Canynekhai | Cub |
 | JailBird | Cub |
+| Nozomy | Zoophilia |
 | RedRusker | Cub |
+| Sabuke | Pretty much very much drawn zoophilia. |
 | Zackary911 | Drawing young / cub characters |
 | Zaush | Draws young (underage) characters |
 
