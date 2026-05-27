@@ -35,4 +35,6 @@ Banned characters INCLUDE stickers and any piece of art that they may be in.
 
 | Character | Why? |
 | :- | -: |
+| Foxgear | Alias of GearFox |
 | GearFox | Cub / Young Art |
+| Huskgear | Alias of GearFox |
